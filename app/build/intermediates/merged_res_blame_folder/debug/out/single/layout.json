@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_payment.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/orders_layout.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/orders_layout.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fpx2.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fpx2.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_settins.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_settins.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/product_items_layout.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/product_items_layout.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_admin_check_new_products.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_admin_check_new_products.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_products_details.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_products_details.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_confirm_final_order.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fragment_notifications.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/nav_header_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fragment_slideshow.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fragment_gallery.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_cart.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_catagory_image.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_catagory_image.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_seller_product_category.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_seller_product_category.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_admin_new_orders.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_admin_new_orders.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fragment_dashboard.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/cart_items_layout.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/cart_items_layout.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_register.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fpx5.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fpx5.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/seller_item_view.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/seller_item_view.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_admin_user_products.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_admin_user_products.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_seller_login.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_seller_login.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_seller_registration.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_seller_registration.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/app_bar_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_seller_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_seller_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_search_products.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_search_products.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fpx4.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fpx4.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/content_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fpx1.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fpx1.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_seller_add_new_product.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_seller_add_new_product.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_catagory.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_catagory.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/spinner.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/spinner.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fpx3.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fpx3.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_reset_password.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_admin_maintain_products.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_admin_maintain_products.xml"
+    },
+    {
+        "merged": "com.example.rustmarketfyp.app-mergeDebugResources-54:/layout/activity_admin_home.xml",
+        "source": "com.example.rustmarketfyp.app-main-57:/layout/activity_admin_home.xml"
+    }
+]
